@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 
-    Hi, there! Kwesi Peacemaker <img src="https://github.com/Kwesi-Welbred/Kwesi-Welbred/blob/main/gifs/hi.gif" width="25px">
+    Hi, there! I am Kwesi Peacemaker <img src="https://github.com/Kwesi-Welbred/Kwesi-Welbred/blob/main/gifs/hi.gif" width="25px">
   </h2>
 </div>
 
@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/Kwesi_Welbred/)
 
 🔭 &nbsp;Computer science position, utilizing solid training and experience in 
-computer programming, data science, software engineering, web site design, and systems operations. Effective at supporting bteam needs with high-quality code, subject matter expertise and collaboration skills.
+computer programming, data science, software engineering, web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills.
 
 💡 &nbsp; Skilled programmer and complex problem-solver who like to explore new technologies and look for a way to create the things that change the world.\
 ✍️ &nbsp;In my free time, I like to grap a drink and watch Netflix and chill.
