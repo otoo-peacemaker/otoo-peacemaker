@@ -9,10 +9,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/kwesi-welbred-9a468512b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/Kwesi_Welbred/)
 
-🔭 &nbsp;Computer science position, utilizing solid training and experience in 
-computer programming, data science, software engineering, web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills.
+🔭 &nbsp;Computer science position, utilizing solid training and experience in computer programming, data science, software engineering, 
+    web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter 
+    expertise and collaboration skills.
 
-💡 &nbsp; Skilled programmer and complex problem-solver who like to explore new technologies and look for a way to create the things that change the world.\
+💡 &nbsp; Skilled programmer and complex problem-solver who like to explore new technologies and look for a way
+          to create the things that change the world.\
 ✍️ &nbsp;In my free time, I like to grap a drink and watch Netflix and chill.
 
 ### ⚙️ &nbsp;GitHub Analytics
