@@ -34,7 +34,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 Technologies that I've been learning and I've picked up along my programming journey.
-
+## Artificial Intelligence
+https://img.shields.io/badge/Computer%20Vision-CNN__OpenCV-orange
 
 
 ## 🌐 Frontend : <br />
