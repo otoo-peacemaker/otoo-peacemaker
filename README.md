@@ -35,18 +35,20 @@
 
 Technologies that I've been learning and I've picked up along my programming journey.
 ## Artificial Intelligence
-![Vision](https://img.shields.io/badge/Computer%20Vision-CNN__OpenCV-orange)
+
+![Vision](https://img.shields.io/badge/Computer%20Vision-CNN%2C%20OpenCV-blue) <br />
+![ML](https://img.shields.io/badge/Machine__Learning-Data%20Science-brightgreen)
 
 
 ## 🌐 Frontend : <br />
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)
-![React Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+<!-- ![React Native](https://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=white) -->
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS) -->
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) -->
 
 
 
@@ -55,8 +57,8 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase&logoColor=FFA518)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&logoColor=FFA518)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-05122A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&logoColor=2496ed)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql&logoColor=0273B7) -->
 ![MySQL](http://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=mysql&logoColor=4479A1)
 
 
