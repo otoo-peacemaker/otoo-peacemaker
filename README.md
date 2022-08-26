@@ -25,9 +25,9 @@
   </h4>
 </div>
 <p align="center">
-  <a href="https://github.com/Kwesi-Welbred">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kwesi-Welbred&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kwesi-Welbred&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/otoo-peacemaker">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otoo-peacemaker&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=otoo-peacemaker&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
