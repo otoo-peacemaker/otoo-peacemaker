@@ -1,13 +1,13 @@
 <div align="center">
   <h2> 
-    Hi, there! I am Kwesi Peacemaker <img src="https://github.com/Kwesi-Welbred/Kwesi-Welbred/blob/main/gifs/hi.gif" width="25px">
+    Hi, there! I am Kwesi Peacemaker <img src="https://github.com/otoo-peacemaker/otoo-peacemaker/blob/main/gifs/hi.gif" width="25px">
   </h2>
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/kwesi-welbred-9a468512b/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/Kwesi_Welbred/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/otoo-peacemaker-9a468512b/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/otoo-peacemaker/)
 
 🔭 &nbsp;Computer science position, utilizing solid training and experience in computer programming, data science, software engineering, 
     web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter 
