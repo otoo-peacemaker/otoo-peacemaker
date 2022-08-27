@@ -13,8 +13,8 @@
     web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter 
     expertise and collaboration skills.
 
-💡 &nbsp; Skilled programmer and complex problem-solver who like to explore new technologies and look for a way
-          to create the things that change the world.\
+💡 &nbsp; Skilled programmer and complex problem-solver who always explores new technologies and look for a innovative way
+         of creating new things that that can the world.\
 ✍️ &nbsp;In my free time, I like to grap a drink and watch Netflix and chill.
 
 ### ⚙️ &nbsp;GitHub Analytics
