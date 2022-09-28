@@ -9,12 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/otoo-peacemaker-9a468512b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/otoo-peacemaker/)
 
-🔭 &nbsp;Computer science position, utilizing solid training and experience in computer programming, data science, software engineering, 
-    web site design, and systems operations. Effective at supporting team needs with high-quality code, subject matter 
-    expertise and collaboration skills.
-
-💡 &nbsp; Skilled programmer and complex problem-solver who always explores new technologies and look for a innovative way
-         of creating new things that that can the world.\
+🔭 Professional Software Engineer/ developer with 3+ years of experience, excellent communication skills, who is analytical and detail-oriented. Adept at bringing the entire team together to accomplish a task on schedule and on a limited budget. Dedicated to providing clients with practical and simple-to-use software solutions
 ✍️ &nbsp;In my free time, I like to grap a drink and watch Netflix and chill.
 
 ### ⚙️ &nbsp;GitHub Analytics
