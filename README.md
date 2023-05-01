@@ -6,11 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)](https://www.linkedin.com/in/otoo-peacemaker-9a468512b/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaybkim/)]([https://www.linkedin.com/in/otoo-peacemaker-9a468512b/](https://www.linkedin.com/in/peacemaker-otoo/))
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/otoo-peacemaker/)
 
 🔭 \
-I'm a software engineer and developer with three years of experience building high-quality software solutions using a variety of technologies. My expertise includes Android development with Kotlin, web development with Spring Boot and Django, as well as data science.
+I'm a software engineer and developer with 4+ years of experience building high-quality software solutions using a variety of technologies. My expertise includes Android development with Kotlin, web development with Spring Boot and Django, as well as data science.
 
 In my Android development work, I have created user-friendly and feature-rich mobile applications that leverage the latest Android architecture components and libraries. I am familiar with popular libraries like Retrofit, Room, MVVM architecture and RxJava/corountine and have experience building apps for a variety of industries.
 
