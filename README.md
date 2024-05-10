@@ -10,16 +10,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/kogisin_jayb/)](https://twitter.com/otoo-peacemaker/)
 
 🔭 \
-I'm a software engineer and developer with 4+ years of experience building high-quality software solutions using a variety of technologies. My expertise includes Android development with Kotlin, web development with Spring Boot and Django, as well as data science.
-
-In my Android development work, I have created user-friendly and feature-rich mobile applications that leverage the latest Android architecture components and libraries. I am familiar with popular libraries like Retrofit, Room, MVVM architecture and RxJava/corountine and have experience building apps for a variety of industries.
-
-In addition to my Android skills, I also have experience in web development using Spring Boot and Django, where I have built RESTful APIs and web services for large-scale applications. I am proficient in database management and have worked with popular databases such as PostgreSQL and MySQL.
-
-Furthermore, I have a keen interest in data science and have developed predictive models, analyzed large datasets, and visualized data using tools such as Python, R, and Tableau. My experience in data science has allowed me to contribute to software solutions that require data-driven insights.
-
-Throughout my career, I have worked in agile development environments and have practiced test-driven development, continuous integration, and software engineering best practices. My strong problem-solving skills, attention to detail, and ability to work collaboratively in teams have allowed me to consistently deliver high-quality software on time and within budget.
-
+I am a seasoned Software Engineer/Developer with over 4 years of hands-on experience in crafting innovative solutions and delivering high-quality software products. My journey in the tech industry has been driven by a passion for leveraging technology to solve real-world problems and enhance user experiences.
 
 ✍️ &nbsp;In my free time, I like to grap a drink and watch Netflix and chill.
 
